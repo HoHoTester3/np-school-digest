@@ -1,0 +1,14 @@
+.hiddenRow {
+  padding: 0 !important;
+}
+
+.linkRow {
+  padding: .5rem !important;
+}
+
+td {
+  padding: 0 !important;
+  padding-left: .75rem !important;
+  vertical-align: middle !important;
+  line-height: 1.2 !important;
+}
